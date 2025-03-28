@@ -4,10 +4,13 @@
 ## Presentación Personal
 
 ### Datos Personales
-- Mi nombre es:
-- Vivo en
+Hola a todxs! Mi nombre es Marilin
+Vivo en San Justo, La Matanza, con mi gatita y mi novio.
 
 
 ### Otra Información
-- Este es mi primer contacto con github
-- Tengo un gato que se llama Timoteol
+Estoy haciendo la Tecnicatura en Programación. No tengo conocimientos previos del tema así que es todo nuevo para mí. A veces es una ventaja y otras no tanto jajaj
+Me gustan mucho las actividades manuales: pintar, dibujar, coser. Soy profe de Artes Visuales y también tengo un emprendimiento de costura.
+También me gusta cocinar (y comer), en especial la pastelería.
+
+Les deseo una buena cursada a todxs! Saludos!
