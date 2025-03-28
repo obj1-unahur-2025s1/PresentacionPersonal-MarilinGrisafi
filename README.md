@@ -4,7 +4,7 @@
 ## Presentación Personal
 
 ### Datos Personales
-Hola a todxs! Mi nombre es Marilin
+Hola a todxs! Mi nombre es Marilin <br>
 Vivo en San Justo, La Matanza, con mi gatita y mi novio.
 
 
